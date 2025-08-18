@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/donthula9908](github.com/donthula9908)
 
-- 📫 How to reach me **ndonthula5@gmail.com**
+- 📫 How to reach me **naveen.donthula1@gmail.com**
 
 - ⚡ Fun fact **Gym aficionado**
 
