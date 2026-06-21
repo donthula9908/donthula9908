@@ -14,7 +14,7 @@
 
 ## About
 
-Data Engineer with building enterprise data platforms across Azure, Databricks, Microsoft Fabric, AWS, and Snowflake. I own the full pipeline — ingestion, transformation, quality, monitoring, and delivery.
+Senior Data Engineer with **6+ years** building enterprise data platforms across Azure, Databricks, Microsoft Fabric, AWS, and Snowflake. I own the full pipeline — ingestion, transformation, quality, monitoring, and delivery.
 
 - Delivered **~9x pipeline throughput** improvement via a single SQL ordering change on a financial data pipeline
 - Built and maintain **80+ ADF pipelines** across dev/staging/prod with ARM-based CI/CD
