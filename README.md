@@ -20,7 +20,6 @@ Data Engineer building enterprise data platforms across Azure, Databricks, Micro
 - Built and maintain **80+ ADF pipelines** across dev/staging/prod with ARM-based CI/CD
 - Designed **row-level validation frameworks** using PySpark `exceptAll` diffs for Databricks → Synapse migration
 - Built **IcM automation** and SOX control narratives for daily financial reconciliation
-- **H1B · C2C / W2 · Open to relocation · Available immediately**
 
 ---
 
