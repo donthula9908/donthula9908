@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Naveen+Donthula;Data+Engineer;Azure+%7C+Databricks+%7C+Fabric+%7C+AWS+%7C+Snowflake" alt="Naveen Donthula — Senior Data Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Naveen+Donthula;Senior+Data+Engineer;Azure+%7C+Databricks+%7C+Fabric+%7C+AWS+%7C+Snowflake" alt="Naveen Donthula — Senior Data Engineer" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ## About
 
-Senior Data Engineer with **years** building enterprise data platforms across Azure, Databricks, Microsoft Fabric, AWS, and Snowflake. I own the full pipeline — ingestion, transformation, quality, monitoring, and delivery.
+Senior Data Engineer with **6+ years** building enterprise data platforms across Azure, Databricks, Microsoft Fabric, AWS, and Snowflake. I own the full pipeline — ingestion, transformation, quality, monitoring, and delivery.
 
 - Delivered **~9x pipeline throughput** improvement via a single SQL ordering change on a financial data pipeline
 - Built and maintain **80+ ADF pipelines** across dev/staging/prod with ARM-based CI/CD
