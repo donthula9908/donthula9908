@@ -85,6 +85,8 @@ Senior Data Engineer with **years** building enterprise data platforms across Az
 | 🏅 | [Tokyo Olympics — Azure Pipeline](https://github.com/donthula9908/Tokyo_Olympic_Azure_Data_engineering_Project) | ADF · ADLS Gen2 · Databricks · Synapse · Power BI |
 | 🌊 | [Live Streaming — NiFi + Snowpipe](https://github.com/donthula9908/Live-Data-Streaming-using-NiFi-Snowpipe-and-AWS-AZURE) | Apache NiFi · Snowpipe · AWS S3 · Azure |
 | 🧠 | [AI Pipeline Anomaly Detection](https://github.com/donthula9908/donthula9908-ai-pipeline-anomaly-detection) | Databricks · Isolation Forest · PySpark |
+| 📊 | [Power BI Analytics Dashboards](https://github.com/donthula9908/powerbi-analytics-dashboards) | Power BI · DAX · Microsoft Fabric · DirectLake · Synapse |
+| 📈 | [Tableau Data Visualizations](https://github.com/donthula9908/tableau-data-visualizations) | Tableau · Snowflake · Redshift · LOD Expressions · Prep |
 
 ---
 
