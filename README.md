@@ -60,6 +60,7 @@ ORDER BY partitionKey   -- single change, ~9x improvement on cache load
 
 ### ☁️ Cloud & Data Platforms
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-FFB900?style=for-the-badge&logo=microsoft&logoColor=black)
 ![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -112,6 +113,18 @@ ORDER BY partitionKey   -- single change, ~9x improvement on cache load
 | KQL | Azure Monitor queries — StorageBlobLogs, AzureDiagnostics, security investigations |
 | C# / .NET | Auth policies, API security fixes, ASP.NET Core middleware |
 | CI/CD | OneBranch YAML, Azure DevOps release pipelines, EV2 RolloutSpec |
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🏗️ [Azure End-to-End Data Engineering](https://github.com/donthula9908/azure-data-engineering-projects) | ADF · ADLS Gen2 · Databricks · Synapse | Medallion architecture — Bronze/Silver/Gold with SCD Type 2, DQ framework, 50M+ records/day |
+| 🔥 [Databricks Lakehouse Platform](https://github.com/donthula9908/databricks-lakehouse-projects) | PySpark · Delta Lake · DLT · Unity Catalog | Enterprise lakehouse with Kafka streaming, Delta Live Tables, and ABAC governance |
+| 🧵 [Microsoft Fabric Analytics](https://github.com/donthula9908/microsoft-fabric-analytics) | Fabric · Lakehouses · Dataflow Gen2 · T-SQL | Full Fabric workspace — OneLake, Fabric Warehouse, Dataflow Gen2, Power BI DirectLake |
+| 🌩️ [AWS Data Engineering Pipeline](https://github.com/donthula9908/aws-data-engineering) | Glue · Lambda · Kinesis · S3 · Redshift | Serverless event-driven pipeline with bookmark-based incremental loads and SSM locking |
+| ❄️ [Snowflake & dbt Analytics](https://github.com/donthula9908/snowflake-dbt-project) | Snowflake · dbt · Streams & Tasks · Dynamic Tables | ELT platform with SCD2 macro, dbt incremental models, Streams & Tasks CDC |
 
 ---
 
